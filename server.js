@@ -8,10 +8,10 @@ app.use(express.json());
 
 // 1. Database Connection (Define this FIRST)
 const db = mysql.createConnection({
-  host: 'mysql-johnadrian.com',
-  user: 'admin',
-  password: '123456',
-  database: 'deployment',
+  host: 'mysql-1e30a13e-johnadrianestrada-f2fa.g.aivencloud.com',
+  user: 'avnadmin',
+  password: 'AVNS_NFvsxlllcSvYhx2fe6-',
+  database: 'defaultdb',
   port: 3306 
 });
 

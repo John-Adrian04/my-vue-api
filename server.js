@@ -12,7 +12,7 @@ const db = mysql.createConnection({
   user: 'avnadmin',
   password: 'AVNS_NFvsxlllcSvYhx2fe6-',
   database: 'defaultdb',
-  port: 3306 
+  port: 15815
 });
 
 // 2. Test the connection in your console
